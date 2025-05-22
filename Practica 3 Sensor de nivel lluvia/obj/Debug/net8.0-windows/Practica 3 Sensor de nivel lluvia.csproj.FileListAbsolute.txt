@@ -1,0 +1,37 @@
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.exe
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.deps.json
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.runtimeconfig.json
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.dll
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.pdb
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.csproj.AssemblyReference.cache
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica_3_Sensor_de_nivel_lluvia.Form1.resources
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.csproj.GenerateResource.cache
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.AssemblyInfoInputs.cache
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.AssemblyInfo.cs
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.csproj.CoreCompileInputs.cache
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica.59D7B88C.Up2Date
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.dll
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\refint\Practica 3 Sensor de nivel lluvia.dll
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.pdb
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\Practica 3 Sensor de nivel lluvia.genruntimeconfig.cache
+C:\Users\one_c\Desktop\Practica 1 Unidad 6\Practica 3 Sensor de nivel lluvia\obj\Debug\net8.0-windows\ref\Practica 3 Sensor de nivel lluvia.dll
