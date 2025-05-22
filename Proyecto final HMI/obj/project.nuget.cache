@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "y4uJqCGniRU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\one_c\\Desktop\\Practica 1 Unidad 6\\Proyecto final HMI\\Proyecto final HMI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.android-arm.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.android-arm64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.android-x64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.android-x86.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.linux-arm.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.linux-arm64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.linux-bionic-x64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.linux-musl-arm.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.linux-musl-arm64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.linux-musl-x64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.linux-x64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.maccatalyst-x64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.osx-arm64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\10.0.0-preview.4.25258.110\\runtime.osx-x64.runtime.native.system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\one_c\\.nuget\\packages\\system.io.ports\\10.0.0-preview.4.25258.110\\system.io.ports.10.0.0-preview.4.25258.110.nupkg.sha512"
+  ],
+  "logs": []
+}
